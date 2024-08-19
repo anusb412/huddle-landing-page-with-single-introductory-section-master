@@ -140,3 +140,7 @@ select {
 button {
   max-width: 75%;
 }
+
+.sm {
+  transform: 50%;
+}
