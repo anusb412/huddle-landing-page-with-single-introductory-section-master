@@ -108,10 +108,9 @@ select {
   }
 
   .container {
-    padding: 2rem;
-    display: flex;
-    flex-direction: column;
-    flex: 1;
+    padding: 1.5rem;
+    display: grid;
+    gap: 2rem;
 
   }
 
@@ -135,7 +134,7 @@ select {
 .description {
   text-align: center;
   color: hsl(257, 40%, 90%);
-  font-size: 15px;
+  font-size: 14.5px;
   line-height: 1.5rem;
 }
 
